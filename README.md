@@ -1,2 +1,2 @@
 # Perpustakaan
-Database Peminjaman buku di Perpustakaan
+Aplikasi Peminjaman buku di Perpustakaan
